@@ -48,7 +48,7 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 
 # Test cases
 
-Test cases for Mango site LINK to test cases
+
 # SQL
 
 # LINK to my tester CV made during Course
