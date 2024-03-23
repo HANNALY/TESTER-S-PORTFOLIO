@@ -54,11 +54,16 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 
 
 # SQL
+# Java 
+[https://docs.google.com/drawings/d/1-ADxwEeHNEeKI_Zwyg-C-kksORJXtlDOHDVTjY5ksc4/edit?usp=sharing]
 
 # LINK to my tester CV made during the Course
 [https://docs.google.com/document/d/1qA794TKFBHRPIRi6EHiAXD9-m-mhzRDC0s5Ht_dJWZU/edit?usp=sharing]
 
 # REST API
+
+
+
 
 
 
