@@ -7,7 +7,7 @@ A self-taught future junior software tester.
 
 I'm based in Warsaw, Poland but I'm active internationally.
 
-I’m currently finished learning manual testing and Java fundamentals
+I’m finished learning manual testing and Java fundamentals at Mate Academy
 
 In the future, I see myself as an Automation Tester.
 
@@ -45,13 +45,17 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 # Technical Books
 
 # BUGS
+[https://docs.google.com/spreadsheets/d/1AyN1bTEhQxdWRo8uzaG8NclCQJ3fj0XEGKNPAKP8CGE/edit?usp=sharing]
+[https://docs.google.com/spreadsheets/d/1Tm_PMohhEmvpjexyTQPRXK7llkTySaPgvCvKnrB7VWQ/edit?usp=sharing]
 
 # Test cases
+[https://docs.google.com/spreadsheets/d/1yKNBjEr-4i557TnCmwidPumSt-9JdFyTji1pip4ys3U/edit?usp=sharing]
+[https://docs.google.com/document/d/1Wak-hfRUKzUMBpL5EBxgu3ZyRA3kNgP9oh3Df-T0ZRE/edit?usp=sharing]
 
 
 # SQL
 
-# LINK to my tester CV made during Course
+# LINK to my tester CV made during the Course
 [https://docs.google.com/document/d/1qA794TKFBHRPIRi6EHiAXD9-m-mhzRDC0s5Ht_dJWZU/edit?usp=sharing]
 
 # REST API
