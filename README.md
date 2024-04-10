@@ -43,6 +43,7 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 [https://drive.google.com/drive/folders/1UWrSyxxw8aKF2N76nLOiEX_827s1Vz91?usp=drive_link]
 
 # Technical Books
+Book: “Zawód Tester” by Radosław Smilgin
 
 # BUGS
 [https://docs.google.com/spreadsheets/d/1AyN1bTEhQxdWRo8uzaG8NclCQJ3fj0XEGKNPAKP8CGE/edit?usp=sharing]
@@ -58,7 +59,7 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 [https://docs.google.com/drawings/d/1-ADxwEeHNEeKI_Zwyg-C-kksORJXtlDOHDVTjY5ksc4/edit?usp=sharing]
 
 # LINK to my tester CV made during the Course
-[https://docs.google.com/document/d/1qA794TKFBHRPIRi6EHiAXD9-m-mhzRDC0s5Ht_dJWZU/edit?usp=sharing]
+[https://www.canva.com/design/DAGAs8WqrSw/dI85kJHNMgtDgDdTh7oQpA/edit?utm_content=DAGAs8WqrSw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 # REST API
 
