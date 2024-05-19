@@ -57,7 +57,13 @@ https://docs.google.com/spreadsheets/d/1EzrV77xPTh-JDa0cej85sKvjjPy1GylN1acpWHZE
 https://docs.google.com/spreadsheets/d/1tWNvLcDAAnm7HRtrV8LvdsqPZS4cbwOZH31eE-SCi7I/edit#gid=1906464474
 -Test Cases
 https://docs.google.com/document/d/1uQX-9NYYbCgiKOyuYqOqJ8tp-STwFLeAugckuFfnAcI/edit#heading=h.8qyossetrohk
+
 # JPetStore [https://drive.google.com/drive/folders/1dV4V-3Rl5ZpAADa7TwBChuS0AL4vvOjU?usp=drive_link]
+-Bugs
+https://docs.google.com/spreadsheets/d/1Tm_PMohhEmvpjexyTQPRXK7llkTySaPgvCvKnrB7VWQ/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1AyN1bTEhQxdWRo8uzaG8NclCQJ3fj0XEGKNPAKP8CGE/edit?usp=drive_link
+-Test Cases
+
 
 # SQL
 [https://drive.google.com/drive/folders/1IWV0DHMMX5zFqNYc5ITjZlDOsuQWpdiy?usp=drive_link]
