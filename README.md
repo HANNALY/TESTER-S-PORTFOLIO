@@ -45,24 +45,30 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 # Technical Books
 Book: “Zawód Tester” by Radosław Smilgin
 
-# BUGS
-[https://docs.google.com/spreadsheets/d/1AyN1bTEhQxdWRo8uzaG8NclCQJ3fj0XEGKNPAKP8CGE/edit?usp=sharing]
-[https://docs.google.com/spreadsheets/d/1Tm_PMohhEmvpjexyTQPRXK7llkTySaPgvCvKnrB7VWQ/edit?usp=sharing]
+# Portfolio
+# Huntd App [https://drive.google.com/drive/folders/1mVjx5OXX-I_Ms5M-MpIq5YJqWr0b_Z01?usp=drive_link]
+-Bugs
+https://docs.google.com/spreadsheets/d/1pV-fSVLIpssHI83W4GEqd9IOcT_FSl6cmLaCDLjU6m8/edit?usp=drive_link
+-Test Cases
+https://docs.google.com/spreadsheets/d/1EzrV77xPTh-JDa0cej85sKvjjPy1GylN1acpWHZE-2A/edit?usp=drive_link
 
-# Test cases
-[https://docs.google.com/spreadsheets/d/1yKNBjEr-4i557TnCmwidPumSt-9JdFyTji1pip4ys3U/edit?usp=sharing]
-[https://docs.google.com/document/d/1Wak-hfRUKzUMBpL5EBxgu3ZyRA3kNgP9oh3Df-T0ZRE/edit?usp=sharing]
-
+# Conduit [https://drive.google.com/drive/folders/1BSHUzXGYao998rTSS3j7CrdHOmsW79fA?usp=drive_link]
+-Bugs
+https://docs.google.com/spreadsheets/d/1tWNvLcDAAnm7HRtrV8LvdsqPZS4cbwOZH31eE-SCi7I/edit#gid=1906464474
+-Test Cases
+https://docs.google.com/document/d/1uQX-9NYYbCgiKOyuYqOqJ8tp-STwFLeAugckuFfnAcI/edit#heading=h.8qyossetrohk
+# JPetStore [https://drive.google.com/drive/folders/1dV4V-3Rl5ZpAADa7TwBChuS0AL4vvOjU?usp=drive_link]
 
 # SQL
+[https://drive.google.com/drive/folders/1IWV0DHMMX5zFqNYc5ITjZlDOsuQWpdiy?usp=drive_link]
 # Java 
 [https://docs.google.com/drawings/d/1-ADxwEeHNEeKI_Zwyg-C-kksORJXtlDOHDVTjY5ksc4/edit?usp=sharing]
 
-# LINK to my tester CV made during the Course
-[https://www.canva.com/design/DAGAs8WqrSw/dI85kJHNMgtDgDdTh7oQpA/edit?utm_content=DAGAs8WqrSw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-
 # REST API
 [https://drive.google.com/drive/folders/1QEd_GBQfjV0NR2ppXhJo3_pt03rM0EE-?usp=sharing]
+
+# LINK to my tester CV made during the Course
+[https://www.canva.com/design/DAGAs8WqrSw/dI85kJHNMgtDgDdTh7oQpA/edit?utm_content=DAGAs8WqrSw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 
 
