@@ -68,6 +68,7 @@ https://docs.google.com/spreadsheets/d/1yKNBjEr-4i557TnCmwidPumSt-9JdFyTji1pip4y
 
 # SQL
 [https://drive.google.com/drive/folders/1IWV0DHMMX5zFqNYc5ITjZlDOsuQWpdiy?usp=drive_link]
+https://docs.google.com/document/d/1Wp-BATsk9X7ISCY-3ywjYP2mWHDVb1Dr2nZ8BQKg8Rc/edit#heading=h.wn1dfpmk5tzi
 # Java 
 [https://docs.google.com/drawings/d/1-ADxwEeHNEeKI_Zwyg-C-kksORJXtlDOHDVTjY5ksc4/edit?usp=sharing]
 
