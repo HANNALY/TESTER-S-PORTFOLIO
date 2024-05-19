@@ -60,10 +60,11 @@ https://docs.google.com/document/d/1uQX-9NYYbCgiKOyuYqOqJ8tp-STwFLeAugckuFfnAcI/
 
 # JPetStore [https://drive.google.com/drive/folders/1dV4V-3Rl5ZpAADa7TwBChuS0AL4vvOjU?usp=drive_link]
 -Bugs
+https://docs.google.com/spreadsheets/d/1XrQhz6W96jcloJt7fPRue4MA_smrMINk70N7L-h7JFw/edit#gid=1510128816
 https://docs.google.com/spreadsheets/d/1Tm_PMohhEmvpjexyTQPRXK7llkTySaPgvCvKnrB7VWQ/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1AyN1bTEhQxdWRo8uzaG8NclCQJ3fj0XEGKNPAKP8CGE/edit?usp=drive_link
 -Test Cases
-
+https://docs.google.com/spreadsheets/d/1yKNBjEr-4i557TnCmwidPumSt-9JdFyTji1pip4ys3U/edit#gid=327315097
 
 # SQL
 [https://drive.google.com/drive/folders/1IWV0DHMMX5zFqNYc5ITjZlDOsuQWpdiy?usp=drive_link]
