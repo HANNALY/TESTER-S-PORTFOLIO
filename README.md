@@ -1,5 +1,4 @@
-# TESTER-S-PORTFOLIO
-My Tester's Portfolio
+# My Tester's Portfolio
 
 Hi there👋 I'm Anna.
 
