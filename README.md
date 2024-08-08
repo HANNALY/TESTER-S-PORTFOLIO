@@ -46,19 +46,19 @@ FreeCodeCamp (HTML, CSS, JavaScript)
 Book: “Zawód Tester” by Radosław Smilgin
 
 # Portfolio
-# Huntd App [https://drive.google.com/drive/folders/1mVjx5OXX-I_Ms5M-MpIq5YJqWr0b_Z01?usp=drive_link]
+# HuntSphere [https://drive.google.com/drive/folders/1mVjx5OXX-I_Ms5M-MpIq5YJqWr0b_Z01?usp=drive_link]
 -Bugs
 https://docs.google.com/spreadsheets/d/1pV-fSVLIpssHI83W4GEqd9IOcT_FSl6cmLaCDLjU6m8/edit?usp=drive_link
 -Test Cases
 https://docs.google.com/spreadsheets/d/1EzrV77xPTh-JDa0cej85sKvjjPy1GylN1acpWHZE-2A/edit?usp=drive_link
 
-# Conduit [https://drive.google.com/drive/folders/1BSHUzXGYao998rTSS3j7CrdHOmsW79fA?usp=drive_link]
+# ChannelElevate [https://drive.google.com/drive/folders/1BSHUzXGYao998rTSS3j7CrdHOmsW79fA?usp=drive_link]
 -Bugs
 https://docs.google.com/spreadsheets/d/1tWNvLcDAAnm7HRtrV8LvdsqPZS4cbwOZH31eE-SCi7I/edit#gid=1906464474
 -Test Cases
 https://docs.google.com/document/d/1uQX-9NYYbCgiKOyuYqOqJ8tp-STwFLeAugckuFfnAcI/edit#heading=h.8qyossetrohk
 
-# JPetStore [https://drive.google.com/drive/folders/1dV4V-3Rl5ZpAADa7TwBChuS0AL4vvOjU?usp=drive_link]
+# AnimalHaven Expose [https://drive.google.com/drive/folders/1dV4V-3Rl5ZpAADa7TwBChuS0AL4vvOjU?usp=drive_link]
 -Bugs
 https://docs.google.com/spreadsheets/d/1XrQhz6W96jcloJt7fPRue4MA_smrMINk70N7L-h7JFw/edit#gid=1510128816
 https://docs.google.com/spreadsheets/d/1Tm_PMohhEmvpjexyTQPRXK7llkTySaPgvCvKnrB7VWQ/edit?usp=sharing
@@ -76,7 +76,7 @@ https://docs.google.com/document/d/1Wp-BATsk9X7ISCY-3ywjYP2mWHDVb1Dr2nZ8BQKg8Rc/
 [https://drive.google.com/drive/folders/1QEd_GBQfjV0NR2ppXhJo3_pt03rM0EE-?usp=sharing]
 
 # LINK to my tester CV made during the Course
-[https://www.canva.com/design/DAGAs8WqrSw/dI85kJHNMgtDgDdTh7oQpA/edit?utm_content=DAGAs8WqrSw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+[https://drive.google.com/file/d/12FucA_mqgqZ6fvwe1qZcAS1rxNkFJME8/view?usp=sharing]
 
 
 
