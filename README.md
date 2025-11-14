@@ -30,8 +30,8 @@ Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JS
 - VS Code
 - Power BI Platform , Tableau
 - PuTTY Linux version - knowledge of basic commands and functions
-MS Office package - knowledge of advanced text editor functions(WS Word), animating charts, smartart (WS Power Point), (WS Excel)knowledge of data types and the differences between them, creating tables, diagrams, functions, MS Outlook
-English: Upper-Intermediate 
+- MS Office package - knowledge of advanced text editor functions(WS Word), animating charts, smartart (WS Power Point), (WS Excel)knowledge of data types and the differences between them, creating tables, diagrams, functions, MS Outlook
+- English: Upper-Intermediate 
 
 # ADDITIONAL EDUCATION
 QA Course at Mate academy (Manual and Automation QA), 2025
