@@ -1,16 +1,16 @@
 # My Tester's Portfolio
 
-Hi there👋 I'm Anna.
+Hi there 👋 I'm Anna.
 
-A self-taught future junior software tester.
+I am a Software Tester with over a year of experience in manual testing, currently expanding my expertise toward test automation. I began my QA journey at Mate Academy, where I built strong fundamentals in manual testing and Java. Today, I am developing my skills further in a corporate environment as a QA Intern at Play.
 
-I'm based in Warsaw, Poland but I'm active internationally.
+On a daily basis, I create test cases, plan tests, and report bugs while working in an Agile environment using tools such as JIRA and Confluence. I focus strongly on quality, effective team communication, and continuous technical growth.
 
-I’m finished learning manual testing and Java fundamentals at Mate Academy
+I also have experience working with relational databases and SQL (SQL Server Management Studio), which I gained during my Big Data Management studies. My goal is to continue developing in the areas of test automation and data analysis.
 
-In the future, I see myself as an Automation Tester.
+In this portfolio, you will find examples of my work, including test cases and bug reports that reflect the knowledge and experience I have gained so far.
 
-In this portfolio, I'm presenting the knowledge and experience I have gained so far in the field of Manual testing. You can also find here test cases and bug reports created by me.
+In my free time, I enjoy spending time with my family, playing the guitar, traveling, and watching films.
 
 # SKILLS
 - Manual/Automation QA, Black/Grey/Whitebox testing, Web/Mobile testing 
@@ -19,7 +19,7 @@ In this portfolio, I'm presenting the knowledge and experience I have gained so 
 - Test documentation: Test plan, Test cases, Checklists, Bug reports
 - Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Scrum, Kanban)
 - SQL
-- Tools: Jira, TestRail, Git/Github, Unix Terminal, Postman, Microsoft SQL Server
+- Tools: Jira, TestFLO, TestRail, Confluence, Miro, GitLab/Github, Unix Terminal, Postman, Microsoft SQL Server, Typescript + Playwright, BeHave, Selenium+Webdriver
 Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JSON)
 - JavaScript and Python basic knowledge 
 - OS: Windows
@@ -27,13 +27,14 @@ Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JS
 # MODELS/SYSTEMS:
 Microsoft SQL Server
 Jupyter Notebook
+VS Code
 Power BI Platform , Tableau
 PuTTY Linux version - knowledge of basic commands and functions
 MS Office package - knowledge of advanced text editor functions(WS Word), animating charts, smartart (WS Power Point), (WS Excel)knowledge of data types and the differences between them, creating tables, diagrams, functions, MS Outlook
 English: Upper-Intermediate 
 
 # ADDITIONAL EDUCATION
-QA Course at Mate academy (Manual and Automation QA)
+QA Course at Mate academy (Manual and Automation QA), 2025
 Course "Mathematics in Data Science", "Netology", 2021
 SQL Course at w3schools 
 FreeCodeCamp (HTML, CSS, JavaScript) 
