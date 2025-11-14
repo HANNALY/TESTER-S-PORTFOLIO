@@ -34,10 +34,11 @@ Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JS
 - English: Upper-Intermediate 
 
 # ADDITIONAL EDUCATION
-QA Course at Mate academy (Manual and Automation QA), 2025
-Course "Mathematics in Data Science", "Netology", 2021
-SQL Course at w3schools 
-FreeCodeCamp (HTML, CSS, JavaScript) 
+- University of Warsaw
+- QA Course at Mate academy (Manual and Automation QA), 2025
+- Course "Mathematics in Data Science", "Netology", 2021
+- SQL Course at w3schools 
+- FreeCodeCamp (HTML, CSS, JavaScript) 
 
 # Certificates:
 [https://drive.google.com/drive/folders/1UWrSyxxw8aKF2N76nLOiEX_827s1Vz91?usp=drive_link]
