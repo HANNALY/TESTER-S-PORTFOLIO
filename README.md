@@ -23,6 +23,18 @@ In my free time, I enjoy spending time with my family, playing the guitar, trave
 Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JSON)
 - JavaScript and Python basic knowledge 
 - OS: Windows
+🧰 Narzędzia
+Jira/TestFLO       🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
+GitLab/GitHub      🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
+DevTools           🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+SQL                🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+Confluence         🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+Kibana             🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+TestRail           🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+VS Code            🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
+HTML               🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪
+GitBash            🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪
+Miro               🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪
 
 # MODELS/SYSTEMS:
 - Microsoft SQL Server
@@ -32,6 +44,7 @@ Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JS
 - PuTTY Linux version - knowledge of basic commands and functions
 - MS Office package - knowledge of advanced text editor functions(WS Word), animating charts, smartart (WS Power Point), (WS Excel)knowledge of data types and the differences between them, creating tables, diagrams, functions, MS Outlook
 - English: Upper-Intermediate 
+
 
 # ADDITIONAL EDUCATION
 - University of Warsaw
