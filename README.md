@@ -18,7 +18,7 @@ In my free time, I enjoy spending time with my family, playing the guitar, trave
 - Test design techniques
 - Test documentation: Test plan, Test cases, Checklists, Bug reports
 - Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Scrum, Kanban)
-  🤖 Automation testing
+  _ 🤖 Automation testing
 - (Postman, Swagger)                       🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪
 - TypeScript + Playwright               🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪
 - Python (Selenium Webdriver) 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪
