@@ -24,7 +24,7 @@ In my free time, I enjoy spending time with my family, playing the guitar, trave
 - TypeScript + Playwright               🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪
 - Python (Selenium Webdriver) 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪
   
-🧰 Narzędzia
+🧰 Tools
 - Jira/TestFLO       🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
 - GitLab/GitHub      🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
 - DevTools           🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪
