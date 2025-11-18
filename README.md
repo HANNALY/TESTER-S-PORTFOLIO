@@ -13,16 +13,11 @@ In this portfolio, you will find examples of my work, including test cases and b
 In my free time, I enjoy spending time with my family, playing the guitar, traveling, and watching films.
 
 # SKILLS
-- Manual/Automation QA, Black/Grey/Whitebox testing, Web/Mobile testing 
+🧪 Manual/Automation QA, Black/Grey/Whitebox testing, Web/Mobile testing 
 - Regression, Sanity, Smoke testing
 - Test design techniques
 - Test documentation: Test plan, Test cases, Checklists, Bug reports
 - Knowledge of SDLC, STLC, Bug life cycle, Waterfall, Agile concepts knowledge (Scrum, Kanban)
-- SQL
-- Tools: Jira, TestFLO, TestRail, Confluence, Miro, GitLab/Github, Unix Terminal, Postman, Microsoft SQL Server, Typescript + Playwright, BeHave, Selenium+Webdriver
-Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JSON)
-- JavaScript and Python basic knowledge 
-- OS: Windows
 - 🤖 Testowanie automatyczne
 - (Postman, Swagger)                       🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪
 - TypeScript + Playwright               🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪
