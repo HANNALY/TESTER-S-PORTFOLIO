@@ -23,6 +23,10 @@ In my free time, I enjoy spending time with my family, playing the guitar, trave
 Web Understanding (Client-Server Architecture,Chrome DevTools, HTML/CSS, XML, JSON)
 - JavaScript and Python basic knowledge 
 - OS: Windows
+🤖 Testowanie automatyczne
+- (Postman, Swagger)                       🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪
+- TypeScript + Playwright               🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪
+- Python (Selenium Webdriver) 🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪
 🧰 Narzędzia
 - Jira/TestFLO       🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
 - GitLab/GitHub      🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪
