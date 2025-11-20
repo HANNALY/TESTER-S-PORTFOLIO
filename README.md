@@ -47,7 +47,7 @@ In my free time, I enjoy spending time with my family, playing the guitar, trave
 - English: Upper-Intermediate 
 
 
-# ADDITIONAL EDUCATION
+EDUCATION
 - University of Warsaw
 - QA Course at Mate academy (Manual and Automation QA), 2025
 - Course "Mathematics in Data Science", "Netology", 2021
@@ -88,8 +88,6 @@ https://docs.google.com/document/d/1Wp-BATsk9X7ISCY-3ywjYP2mWHDVb1Dr2nZ8BQKg8Rc/
 # REST API
 [https://drive.google.com/drive/folders/1QEd_GBQfjV0NR2ppXhJo3_pt03rM0EE-?usp=sharing]
 
-# LINK to my tester CV
-[https://drive.google.com/file/d/12FucA_mqgqZ6fvwe1qZcAS1rxNkFJME8/view?usp=sharing]
 
 
 
